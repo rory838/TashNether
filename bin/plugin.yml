@@ -1,0 +1,8 @@
+name: TashNether
+main: com.rorybolton.tashnether.Main
+version: 0.1
+author: rory838
+commands:
+   nether:
+      description: Teleports you to the nether and back
+      usage: /<command>
